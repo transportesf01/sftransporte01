@@ -1,0 +1,20 @@
+Inicio
+Quienes Somos 
+Mision / vision
+Servicios
+  Sericios Especializados
+Socios Comerciales
+Contacto
+Footer
+  contacto y direccion 
+
+Animaciones y otros
+  loader
+  animaciones
+
+color palete
+  azul celeste
+  naranja
+  amarillo
+  blanco 
+  negro
